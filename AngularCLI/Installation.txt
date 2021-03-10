@@ -1,0 +1,23 @@
+////// ANGULAR JS INSTALLATION /////
+
+INSTALL USING NODEJS & NPM
+Installation
+BEFORE YOU INSTALL: please read the prerequisites
+
+Install Globally
+npm install -g @angular/cli
+Install Locally
+npm install @angular/cli
+
+//// CREATE NEW ANGULAR PROJECT ///
+
+RUN
+
+ng new {PROJECT NAME}
+
+//// THEN ACCEPT ALL INSTRUCTIONS ////
+
+//// RUN  ANGULAR_CLI DEVELOPMENT SERVER ///
+
+RUN COMMAND {ng serve}
+
